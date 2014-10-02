@@ -1,6 +1,6 @@
 
 --
--- XMonad 
+-- XMonad
 --
 -- The file. The config. The wm.
 --
